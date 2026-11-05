@@ -66,6 +66,5 @@ En la vista general se observaron tres elementos no soportados de la plantilla. 
 
 No se utilizaron scripts personalizados de automatización durante la configuración. Los comandos y las configuraciones empleados están documentados en el informe y en configs/.
 
-## Pendientes de entrega
 
-Consultar [PENDIENTES.md](PENDIENTES.md). El repositorio de GitHub y el video de YouTube todavía no se han creado o vinculado en este paquete.
+
